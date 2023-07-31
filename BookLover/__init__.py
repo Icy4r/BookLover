@@ -1,1 +1,1 @@
-from booklover import BookLover
+from BookLover import booklover
